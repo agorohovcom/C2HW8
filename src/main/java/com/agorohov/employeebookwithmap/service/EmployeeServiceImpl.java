@@ -1,8 +1,8 @@
-package com.agorohov.employeebookspringwebapp.service;
+package com.agorohov.employeebookwithmap.service;
 
-import com.agorohov.employeebookspringwebapp.exception.EmployeeAlreadyAddedException;
-import com.agorohov.employeebookspringwebapp.exception.EmployeeNotFoundException;
-import com.agorohov.employeebookspringwebapp.model.Employee;
+import com.agorohov.employeebookwithmap.exception.EmployeeAlreadyAddedException;
+import com.agorohov.employeebookwithmap.exception.EmployeeNotFoundException;
+import com.agorohov.employeebookwithmap.model.Employee;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

@@ -1,9 +1,9 @@
-package com.agorohov.employeebookspringwebapp.controller;
+package com.agorohov.employeebookwithmap.controller;
 
-import com.agorohov.employeebookspringwebapp.exception.EmployeeAlreadyAddedException;
-import com.agorohov.employeebookspringwebapp.exception.EmployeeNotFoundException;
-import com.agorohov.employeebookspringwebapp.model.Employee;
-import com.agorohov.employeebookspringwebapp.service.EmployeeService;
+import com.agorohov.employeebookwithmap.exception.EmployeeAlreadyAddedException;
+import com.agorohov.employeebookwithmap.exception.EmployeeNotFoundException;
+import com.agorohov.employeebookwithmap.model.Employee;
+import com.agorohov.employeebookwithmap.service.EmployeeService;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
 
