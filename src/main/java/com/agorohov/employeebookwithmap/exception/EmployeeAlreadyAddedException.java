@@ -1,4 +1,4 @@
-package com.agorohov.employeebookspringwebapp.exception;
+package com.agorohov.employeebookwithmap.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

@@ -1,6 +1,6 @@
-package com.agorohov.employeebookspringwebapp.service;
+package com.agorohov.employeebookwithmap.service;
 
-import com.agorohov.employeebookspringwebapp.model.Employee;
+import com.agorohov.employeebookwithmap.model.Employee;
 
 import java.util.Collection;
 
